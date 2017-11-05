@@ -44,7 +44,7 @@
       "test": "test"
     }
   },
-  "homepage": "https://html5boilerplate.com/",
+  "homepage": "https://html5boilerplate.com/src/index.html",
   "license": "MIT",
   "name": "html5-boilerplate",
   "scripts": {
